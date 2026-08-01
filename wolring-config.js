@@ -7,13 +7,6 @@ window.membersData = [
         "description": "Canon x OC FFXIV fansite. I love Haurchefant & Fray! Mature content with ample warnings.",
         "game": "FFXIV, FFV"
     },
-    {
-        "name": "Member 2",
-        "button": "",
-        "url": "localhost:88/",
-        "description": "This is a placeholder description for the second entry.",
-        "game": "FFI-FFXVI"
-    },
     // ... (continue this pattern for other entries)
 ];
 
