@@ -7,6 +7,13 @@ window.membersData = [
         "description": "Canon x OC FFXIV fansite. I love Haurchefant & Fray! Mature content with ample warnings.",
         "game": "FFXIV, FFV"
     },
+    {
+        "name": "dbnet18",
+        "button": "",
+        "url": "https://dbnet18.neocities.org/", 
+        "description": "It's mostly a landing page for my music content plus some personal blogs and business related things",
+        "game": "FFVI, FFX, FFXIV Online"
+    },
     // ... (continue this pattern for other entries)
 ];
 
