@@ -8,6 +8,20 @@ window.membersData = [
         "game": "FFXIV, FFV"
     },
     {
+        "name": "permanentlyblurry",
+        "button": "https://permanentlyblurry.neocities.org/button-88x31.png",
+        "url": "http://permanentlyblurry.neocities.org", 
+        "description": "A hub of websites about video games, Shakespeare, and storytelling.",
+        "game": "FFIX"
+    },
+    {
+        "name": "littlelum",
+        "button": "https://littlelum.neocities.org/images/global/lumbutton.webp",
+        "url": "http://littlelum.neocities.org", 
+        "description": "A personal site where I talk about whatever. Topics range from gaming, my faith, the internet, life, and whatever else pops into my head.",
+        "game": "FFVII, Tactics, FFV"
+    },
+    {
         "name": "dbnet18",
         "button": "",
         "url": "https://dbnet18.neocities.org/", 
