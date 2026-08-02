@@ -8,6 +8,13 @@ window.membersData = [
         "game": "FFXIV, FFV"
     },
     {
+        "name": "Snow Valley",
+        "button": "https://snowvalley.online/assets/sitebuttons/snvl88.png",
+        "url": "https://snowvalley.online", 
+        "description": "Personal site run by an adult with some mature themes~",
+        "game": "FFIX, FFXIV Online"
+    },
+    {
         "name": "permanently blurry",
         "button": "https://permanentlyblurry.neocities.org/button-88x31.png",
         "url": "http://permanentlyblurry.neocities.org", 
