@@ -16,14 +16,14 @@ window.membersData = [
     },
     {
         "name": "permanently blurry",
-        "url": "http://permanentlyblurry.neocities.org/", 
+        "url": "https://permanentlyblurry.neocities.org/", 
         "description": "A hub of websites about video games, Shakespeare, and storytelling.",
         "button": "https://permanentlyblurry.neocities.org/button-88x31.png",
         "game": "FFIX"
     },
     {
         "name": "littlelum",
-        "url": "http://littlelum.neocities.org/", 
+        "url": "https://littlelum.neocities.org/", 
         "description": "A personal site where I talk about whatever. Topics range from gaming, my faith, the internet, life, and whatever else pops into my head.",
         "button": "https://littlelum.neocities.org/images/global/lumbutton.webp",
         "game": "FFVII, Tactics, FFV"
