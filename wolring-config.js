@@ -9,42 +9,42 @@ window.membersData = [
     },
     {
         "name": "Snow Valley",
-        "url": "https://snowvalley.online/", 
+        "url": "https://snowvalley.online/", // HTTPS AND TRAILING SLASH
         "description": "Personal site run by an adult with some mature themes~",
         "button": "https://snowvalley.online/assets/sitebuttons/snvl88.png",
         "game": "FFIX, FFXIV Online"
     },
     {
         "name": "permanently blurry",
-        "url": "https://permanentlyblurry.neocities.org/", 
+        "url": "https://permanentlyblurry.neocities.org/", // HTTPS AND TRAILING SLASH
         "description": "A hub of websites about video games, Shakespeare, and storytelling.",
         "button": "https://permanentlyblurry.neocities.org/button-88x31.png",
         "game": "FFIX"
     },
     {
         "name": "littlelum",
-        "url": "https://littlelum.neocities.org/", 
+        "url": "https://littlelum.neocities.org/", // HTTPS AND TRAILING SLASH
         "description": "A personal site where I talk about whatever. Topics range from gaming, my faith, the internet, life, and whatever else pops into my head.",
         "button": "https://littlelum.neocities.org/images/global/lumbutton.webp",
         "game": "FFVII, Tactics, FFV"
     },
     {
         "name": "dbnet18",
-        "url": "https://dbnet18.neocities.org/", 
+        "url": "https://dbnet18.neocities.org/", // HTTPS AND TRAILING SLASH
         "description": "It's mostly a landing page for my music content plus some personal blogs and business related things",
         "button": "",
         "game": "FFVI, FFX, FFXIV Online"
     },
     {
         "name": "sion.nya.je",
-        "url": "https://sion.nya.je/", 
+        "url": "https://sion.nya.je/", // HTTPS AND TRAILING SLASH
         "description": "personal site where i share all my art and media logs",
         "button": "https://sion.nya.je/assets/8831/sionbtn26.gif",
         "game": "FFX"
     },
     {
         "name": "myamopod",
-        "url": "https://myamopod.my/", 
+        "url": "https://myamopod.my/", // HTTPS AND TRAILING SLASH
         "description": "I make art and stuff but mostly I love Zero!!! Has NSFW content.",
         "button": "https://myamopod.my/img/buttons/myamopod2.png",
         "game": "FFXIV, FFIX, FFIV"
