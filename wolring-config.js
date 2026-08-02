@@ -2,38 +2,52 @@
 window.membersData = [
     {
         "name": "Ishgard Fan",
-        "button": "https://file.garden/Z9QftvoosGBApv5F/ishgardfan/ishgard_fan_88_01.gif",
         "url": "https://ishgard.fan/", // MAKE SURE YOU LEAVE THE TRAILING SLASH, this way the members can put their widget on any page and the script will still recognize them
         "description": "Canon x OC FFXIV fansite. I love Haurchefant & Fray! Mature content with ample warnings.",
+        "button": "https://file.garden/Z9QftvoosGBApv5F/ishgardfan/ishgard_fan_88_01.gif",
         "game": "FFXIV, FFV"
     },
     {
         "name": "Snow Valley",
-        "button": "https://snowvalley.online/assets/sitebuttons/snvl88.png",
-        "url": "https://snowvalley.online", 
+        "url": "https://snowvalley.online/", 
         "description": "Personal site run by an adult with some mature themes~",
+        "button": "https://snowvalley.online/assets/sitebuttons/snvl88.png",
         "game": "FFIX, FFXIV Online"
     },
     {
         "name": "permanently blurry",
-        "button": "https://permanentlyblurry.neocities.org/button-88x31.png",
-        "url": "http://permanentlyblurry.neocities.org", 
+        "url": "http://permanentlyblurry.neocities.org/", 
         "description": "A hub of websites about video games, Shakespeare, and storytelling.",
+        "button": "https://permanentlyblurry.neocities.org/button-88x31.png",
         "game": "FFIX"
     },
     {
         "name": "littlelum",
-        "button": "https://littlelum.neocities.org/images/global/lumbutton.webp",
-        "url": "http://littlelum.neocities.org", 
+        "url": "http://littlelum.neocities.org/", 
         "description": "A personal site where I talk about whatever. Topics range from gaming, my faith, the internet, life, and whatever else pops into my head.",
+        "button": "https://littlelum.neocities.org/images/global/lumbutton.webp",
         "game": "FFVII, Tactics, FFV"
     },
     {
         "name": "dbnet18",
-        "button": "",
         "url": "https://dbnet18.neocities.org/", 
         "description": "It's mostly a landing page for my music content plus some personal blogs and business related things",
+        "button": "",
         "game": "FFVI, FFX, FFXIV Online"
+    },
+    {
+        "name": "sion.nya.je",
+        "url": "https://sion.nya.je/", 
+        "description": "personal site where i share all my art and media logs",
+        "button": "https://sion.nya.je/assets/8831/sionbtn26.gif",
+        "game": "FFX"
+    },
+    {
+        "name": "myamopod",
+        "url": "https://myamopod.my/", 
+        "description": "I make art and stuff but mostly I love Zero!!! Has NSFW content.",
+        "button": "https://myamopod.my/img/buttons/myamopod2.png",
+        "game": "FFXIV, FFIX, FFIV"
     },
     // ... (continue this pattern for other entries)
 ];
@@ -166,7 +180,7 @@ class WOLRing extends HTMLElement {
                 this.shadowRoot.appendChild(style);
             } else {
                 const pendingMessage = document.createElement('p');
-                pendingMessage.textContent = "This user's application is pending."; // Your pending message here
+                pendingMessage.textContent = "This user's application to the Webring of Light is pending."; // Your pending message here
                 this.shadowRoot.appendChild(pendingMessage);
             }
         };
