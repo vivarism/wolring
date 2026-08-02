@@ -8,7 +8,7 @@ window.membersData = [
         "game": "FFXIV, FFV"
     },
     {
-        "name": "permanentlyblurry",
+        "name": "permanently blurry",
         "button": "https://permanentlyblurry.neocities.org/button-88x31.png",
         "url": "http://permanentlyblurry.neocities.org", 
         "description": "A hub of websites about video games, Shakespeare, and storytelling.",
