@@ -49,6 +49,13 @@ window.membersData = [
         "button": "https://myamopod.my/img/buttons/myamopod2.png",
         "game": "FFXIV, FFIX, FFIV"
     },
+    {
+        "name": "moogleboogles",
+        "url": "https://moogleboogles.neocities.org/", // HTTPS AND TRAILING SLASH
+        "description": "A personal site mainly about my own OCs and personal projects relating to them! It's also about moogles, naturally.",
+        "button": "https://moogleboogles.neocities.org/assets/img/moogleboogles.png",
+        "game": "FFXIV, FFXV, FFX"
+    },
     // ... (continue this pattern for other entries)
 ];
 
@@ -85,7 +92,7 @@ class WOLRing extends HTMLElement {
 
         .random-button {
             font-family: inherit;
-            font-size: inherit;
+            font-size: small;
             color: inherit;
         }
 
@@ -211,6 +218,9 @@ class WOLRing extends HTMLElement {
             krile: 'https://file.garden/Z9QftvoosGBApv5F/ishgardfan/WOLRING/krile.png',
             sadu: 'https://file.garden/Z9QftvoosGBApv5F/ishgardfan/WOLRING/sadu.png',
             zero: 'https://file.garden/Z9QftvoosGBApv5F/ishgardfan/WOLRING/zero.png',
+            mog: 'https://file.garden/Z9QftvoosGBApv5F/ishgardfan/WOLRING/mog1.png',
+            mogwalk: 'https://file.garden/Z9QftvoosGBApv5F/ishgardfan/WOLRING/mogwalk.gif',
+            mogsoup: 'https://file.garden/Z9QftvoosGBApv5F/ishgardfan/WOLRING/mogsoup.gif',
         };
       
         return iconMap[iconType] || iconMap.default;
