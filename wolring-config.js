@@ -50,6 +50,13 @@ window.membersData = [
         "game": "FFXIV, FFIX, FFIV"
     },
     {
+        "name": "Valentinely",
+        "url": "https://valentinely.cc/", // HTTPS AND TRAILING SLASH
+        "description": "My personal haven for all the things I love and create. Mature content with warnings. ",
+        "button": "https://www.valentinely.cc/images/88x31-valentinely-bounce.gif",
+        "game": "FFVII, FFX, FFIX"
+    },
+    {
         "name": "moogleboogles",
         "url": "https://moogleboogles.neocities.org/", // HTTPS AND TRAILING SLASH
         "description": "A personal site mainly about my own OCs and personal projects relating to them! It's also about moogles, naturally.",
