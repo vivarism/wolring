@@ -53,8 +53,15 @@ window.membersData = [
         "name": "Valentinely",
         "url": "https://valentinely.cc/", // HTTPS AND TRAILING SLASH
         "description": "My personal haven for all the things I love and create. Mature content with warnings. ",
-        "button": "https://www.valentinely.cc/images/88x31-valentinely-bounce.gif",
+        "button": "https://file.garden/Z9QftvoosGBApv5F/ishgardfan/WOLRING/88x31-valentinely-bounce.gif",
         "game": "FFVII, FFX, FFIX"
+    },
+    {
+        "name": "makoenergy",
+        "url": "https://makoenergy.neocities.org/", // HTTPS AND TRAILING SLASH
+        "description": "my personal site where i express my love for the 2000s and Final Fantasy 7 - plus whatever else i find interesting - through blogs, web design, and shrines!",
+        "button": "https://i.ibb.co/GcmM6h3/E70-A0-BB8-D243-4956-BCD2-47-A3-BFDE5085.gif",
+        "game": "FFVII, FFXII"
     },
     {
         "name": "moogleboogles",
@@ -228,6 +235,7 @@ class WOLRing extends HTMLElement {
             mog: 'https://file.garden/Z9QftvoosGBApv5F/ishgardfan/WOLRING/mog1.png',
             mogwalk: 'https://file.garden/Z9QftvoosGBApv5F/ishgardfan/WOLRING/mogwalk.gif',
             mogsoup: 'https://file.garden/Z9QftvoosGBApv5F/ishgardfan/WOLRING/mogsoup.gif',
+            rufus: 'https://file.garden/Z9QftvoosGBApv5F/ishgardfan/WOLRING/rufus2.png',
         };
       
         return iconMap[iconType] || iconMap.default;
