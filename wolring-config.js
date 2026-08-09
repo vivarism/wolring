@@ -70,6 +70,13 @@ window.membersData = [
         "button": "https://moogleboogles.neocities.org/assets/img/moogleboogles.png",
         "game": "FFXIV, FFXV, FFX"
     },
+    {
+        "name": "The Lab",
+        "url": "https://querldyke.neocities.org/", // HTTPS AND TRAILING SLASH
+        "description": "Personal site to showcase and talk about my interests and hobbies. Minor warning for swearing",
+        "button": "",
+        "game": "FFIX"
+    },
     // ... (continue this pattern for other entries)
 ];
 
