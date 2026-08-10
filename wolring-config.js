@@ -245,6 +245,7 @@ class WOLRing extends HTMLElement {
             mogwalk: 'https://file.garden/Z9QftvoosGBApv5F/ishgardfan/WOLRING/mogwalk.gif',
             mogsoup: 'https://file.garden/Z9QftvoosGBApv5F/ishgardfan/WOLRING/mogsoup.gif',
             rufus: 'https://file.garden/Z9QftvoosGBApv5F/ishgardfan/WOLRING/rufus2.png',
+            kuja: 'https://file.garden/Z9QftvoosGBApv5F/ishgardfan/WOLRING/kuja.png',
         };
       
         return iconMap[iconType] || iconMap.default;
