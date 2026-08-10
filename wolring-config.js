@@ -21,6 +21,7 @@ window.membersData = [
         "button": "https://permanentlyblurry.neocities.org/button-88x31.png",
         "game": "FFIX"
     },
+    /*
     {
         "name": "littlelum",
         "url": "https://littlelum.neocities.org/", // HTTPS AND TRAILING SLASH
@@ -28,6 +29,7 @@ window.membersData = [
         "button": "https://littlelum.neocities.org/images/global/lumbutton.webp",
         "game": "FFVII, Tactics, FFV"
     },
+    */
     {
         "name": "dbnet18",
         "url": "https://dbnet18.neocities.org/", // HTTPS AND TRAILING SLASH
@@ -76,20 +78,6 @@ window.membersData = [
         "description": "Personal site to showcase and talk about my interests and hobbies. Minor warning for swearing",
         "button": "",
         "game": "FFIX"
-    },
-    {
-        "name": "Adrianna's Headspace",
-        "url": "https://adriannatchalla.gay/", // HTTPS AND TRAILING SLASH
-        "description": "It's my personal blog! But I'll be blogging about my time in FF14 as well. I made a little gallery of (spoiler free) screenshots to explore!",
-        "button": "",
-        "game": "FF9, FF12-Zodiac Age, FF6"
-    },
-    {
-        "name": "itsleah.xyz",
-        "url": "https://itsleah.xyz/", // HTTPS AND TRAILING SLASH
-        "description": "a personal website for all the things I love and want to share",
-        "button": "https://itsleah.xyz/button.gif",
-        "game": "FFXIV"
     },
     // ... (continue this pattern for other entries)
 ];
