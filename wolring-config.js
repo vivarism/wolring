@@ -77,6 +77,20 @@ window.membersData = [
         "button": "",
         "game": "FFIX"
     },
+    {
+        "name": "Adrianna's Headspace",
+        "url": "https://adriannatchalla.gay/", // HTTPS AND TRAILING SLASH
+        "description": "It's my personal blog! But I'll be blogging about my time in FF14 as well. I made a little gallery of (spoiler free) screenshots to explore!",
+        "button": "",
+        "game": "FF9, FF12-Zodiac Age, FF6"
+    },
+    {
+        "name": "itsleah.xyz",
+        "url": "https://itsleah.xyz/", // HTTPS AND TRAILING SLASH
+        "description": "a personal website for all the things I love and want to share",
+        "button": "https://itsleah.xyz/button.gif",
+        "game": "FFXIV"
+    },
     // ... (continue this pattern for other entries)
 ];
 
