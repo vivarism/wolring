@@ -79,6 +79,27 @@ window.membersData = [
         "button": "",
         "game": "FFIX"
     },
+    {
+        "name": "Firalia",
+        "url": "https://firalia.xyz/", // HTTPS AND TRAILING SLASH
+        "description": "Just a place for me to share random things about my interests, cosplay, and OCs! It's SFW but there are some buttons with dirty jokes",
+        "button": "https://firalia.xyz/Images/button.png",
+        "game": "FFXIV!"
+    },
+    {
+        "name": "Tanzanite",
+        "url": "https://tanzanite.neocities.org/", // HTTPS AND TRAILING SLASH
+        "description": "My personal website and collection of resources.",
+        "button": "https://tanzanite.neocities.org/images/websitebutton.png",
+        "game": "FFX, FFX-2, FFVII"
+    },
+    {
+        "name": "Slumber Party",
+        "url": "https://drowsy.nekoweb.org/", // HTTPS AND TRAILING SLASH
+        "description": "a pink and purple site for my interests!",
+        "button": "https://drowsy.nekoweb.org/buttons/drowsybutton1.gif",
+        "game": "FFXIV"
+    },
     // ... (continue this pattern for other entries)
 ];
 
