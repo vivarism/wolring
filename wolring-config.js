@@ -31,13 +31,6 @@ window.membersData = [
     },
     */
     {
-        "name": "dbnet18",
-        "url": "https://dbnet18.neocities.org/", // HTTPS AND TRAILING SLASH
-        "description": "It's mostly a landing page for my music content plus some personal blogs and business related things",
-        "button": "",
-        "game": "FFVI, FFX, FFXIV Online"
-    },
-    {
         "name": "sion.nya.je",
         "url": "https://sion.nya.je/", // HTTPS AND TRAILING SLASH
         "description": "personal site where i share all my art and media logs",
@@ -99,6 +92,20 @@ window.membersData = [
         "description": "a pink and purple site for my interests!",
         "button": "https://drowsy.nekoweb.org/buttons/drowsybutton1.gif",
         "game": "FFXIV"
+    },
+    {
+        "name": "dbnet18",
+        "url": "https://dbnet18.neocities.org/", // HTTPS AND TRAILING SLASH
+        "description": "It's mostly a landing page for my music content plus some personal blogs and business related things",
+        "button": "",
+        "game": "FFVI, FFX, FFXIV Online"
+    },
+    {
+        "name": "Bechno Kid's Hideout",
+        "url": "https://bechnokid.com/", // HTTPS AND TRAILING SLASH
+        "description": "A beet's personal website with artwork and other miscellany. SFW with minimal swearing and some mature themes.",
+        "button": "https://raw.githubusercontent.com/bechnokid/neocities/refs/heads/master/public/assets/images/button.png",
+        "game": "FFX, FFVII: Remake"
     },
     // ... (continue this pattern for other entries)
 ];
