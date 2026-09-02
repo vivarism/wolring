@@ -105,7 +105,14 @@ window.membersData = [
         "url": "https://bechnokid.com/", // HTTPS AND TRAILING SLASH
         "description": "A beet's personal website with artwork and other miscellany. SFW with minimal swearing and some mature themes.",
         "button": "https://raw.githubusercontent.com/bechnokid/neocities/refs/heads/master/public/assets/images/button.png",
-        "game": "FFX, FFVII: Remake"
+        "game": "FFX, FF7R"
+    },
+    {
+        "name": "Miki's Otome Oasis",
+        "url": "https://aquamiki.neocities.org/", // HTTPS AND TRAILING SLASH
+        "description": "A personal website dedicated to my interests. Mostly all joseimuke (Japanese women's target audience) media.",
+        "button": "https://aquamiki.neocities.org/linkbutton.gif",
+        "game": "FFXIV"
     },
     // ... (continue this pattern for other entries)
 ];
@@ -188,11 +195,13 @@ class WOLRing extends HTMLElement {
                 const randomLink = document.createElement('a');
                 randomLink.classList.add('random-button');
                 randomLink.textContent = 'Random';
+                randomLink.target = '_blank';
 
                 // Create and style icon
                 const iconLink = document.createElement('a');
                 iconLink.href = 'https://ishgard.fan/webring/'; // Add your webring homepage URL here
                 iconLink.title = 'Webring of Light';
+                iconLink.target = '_blank';
                 const buttonImage = document.createElement('img');
                 buttonImage.src = this.getIconSrc(iconType);
                 buttonImage.classList.add('icon', `icon-${iconType}`);
