@@ -114,6 +114,20 @@ window.membersData = [
         "button": "https://aquamiki.neocities.org/linkbutton.gif",
         "game": "FFXIV"
     },
+    {
+        "name": "Levinchelna",
+        "url": "https://levinchelna.neocities.org/", // HTTPS AND TRAILING SLASH
+        "description": "ffxiv gpose photos, art gallery, other misc.",
+        "button": "https://i.imgur.com/BU6zyAy.png",
+        "game": "FFXIV"
+    },
+    {
+        "name": "warm shelter",
+        "url": "https://sneerful.neocities.org/", // HTTPS AND TRAILING SLASH
+        "description": "a personal site dedicated to tinkering with various projects. its is a workshop where i develop research topics, archive resources, write, experiment, and create",
+        "button": "https://sneerful.neocities.org/sneerfulbutton.png",
+        "game": "FFXIV"
+    },
     // ... (continue this pattern for other entries)
 ];
 
@@ -283,6 +297,9 @@ class WOLRing extends HTMLElement {
             mogsoup: 'https://file.garden/Z9QftvoosGBApv5F/ishgardfan/WOLRING/mogsoup.gif',
             rufus: 'https://file.garden/Z9QftvoosGBApv5F/ishgardfan/WOLRING/rufus2.png',
             kuja: 'https://file.garden/Z9QftvoosGBApv5F/ishgardfan/WOLRING/kuja.png',
+            estinien: 'https://file.garden/Z9QftvoosGBApv5F/ishgardfan/WOLRING/estinien.png',
+            exarch: 'https://file.garden/Z9QftvoosGBApv5F/ishgardfan/WOLRING/exarch.png',
+            meteion: 'https://file.garden/Z9QftvoosGBApv5F/ishgardfan/WOLRING/meteion.png',
         };
       
         return iconMap[iconType] || iconMap.default;
