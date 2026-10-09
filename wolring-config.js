@@ -29,7 +29,6 @@ window.membersData = [
         "button": "https://littlelum.neocities.org/images/global/lumbutton.webp",
         "game": "FFVII, Tactics, FFV"
     },
-    */
     {
         "name": "sion.nya.je",
         "url": "https://sion.nya.je/", // HTTPS AND TRAILING SLASH
@@ -37,6 +36,7 @@ window.membersData = [
         "button": "https://sion.nya.je/assets/8831/sionbtn26.gif",
         "game": "FFX"
     },
+    */
     {
         "name": "myamopod",
         "url": "https://myamopod.my/", // HTTPS AND TRAILING SLASH
