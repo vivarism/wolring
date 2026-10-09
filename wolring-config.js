@@ -128,6 +128,20 @@ window.membersData = [
         "button": "https://sneerful.neocities.org/sneerfulbutton.png",
         "game": "FFXIV"
     },
+    {
+        "name": "windupwigi",
+        "url": "https://windupwigi.neocities.org/", // HTTPS AND TRAILING SLASH
+        "description": "a shrine for my ffxiv wol!",
+        "button": "",
+        "game": "FFXIV (go figure), FFIX, FFXII"
+    },
+    {
+        "name": "The Story of the Moon",
+        "url": "https://kuchiki.net/", // HTTPS AND TRAILING SLASH
+        "description": "Collective of fanlistings, webcliques, and character shrines.",
+        "button": "https://i.ibb.co/HLCBd3Jh/100x50-3.gif",
+        "game": "FFVIII, FFX, FFXIV"
+    },
     // ... (continue this pattern for other entries)
 ];
 
