@@ -156,6 +156,13 @@ window.membersData = [
         "button": "https://caar1960-page.neocities.org/page%20button.gif",
         "game": "FFIX, FF11, FF Tactics"
     },
+    {
+        "name": "Website by Flan",
+        "url": "https://flantasyflan.neocities.org/", // HTTPS AND TRAILING SLASH
+        "description": "It's a personal website full of things about me, my art, and my favorite things one of which is FFXIV!",
+        "button": "https://flantasyflan.neocities.org/images/websitebutton.png",
+        "game": "FFXIV"
+    },
     // ... (continue this pattern for other entries)
 ];
 
