@@ -132,7 +132,7 @@ window.membersData = [
         "name": "windupwigi",
         "url": "https://windupwigi.neocities.org/", // HTTPS AND TRAILING SLASH
         "description": "a shrine for my ffxiv wol!",
-        "button": "",
+        "button": "https://i.imgur.com/Zqci9gj.png",
         "game": "FFXIV (go figure), FFIX, FFXII"
     },
     {
@@ -162,6 +162,13 @@ window.membersData = [
         "description": "It's a personal website full of things about me, my art, and my favorite things one of which is FFXIV!",
         "button": "https://flantasyflan.neocities.org/images/websitebutton.png",
         "game": "FFXIV"
+    },
+    {
+        "name": "The Violet Abyss",
+        "url": "https://lunarcorvus.com/", // HTTPS AND TRAILING SLASH
+        "description": "A Violet-colored webgarden where I talk about OCs and media I like. Website is rated Mature but contains no explicit imagery.",
+        "button": "https://lunarcorvus.com/assets/buttons/lunarcorvusbutton.png",
+        "game": "FFXIV, FFX, FFVIII"
     },
     // ... (continue this pattern for other entries)
 ];
