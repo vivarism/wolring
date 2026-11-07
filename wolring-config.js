@@ -129,14 +129,7 @@ window.membersData = [
         "game": "FFXIV"
     },
     {
-        "name": "windupwigi",
-        "url": "https://windupwigi.neocities.org/", // HTTPS AND TRAILING SLASH
-        "description": "a shrine for my ffxiv wol!",
-        "button": "https://i.imgur.com/Zqci9gj.png",
-        "game": "FFXIV (go figure), FFIX, FFXII"
-    },
-    {
-        "name": "The Story of the Moon",
+        "name": "Story of the Moon",
         "url": "https://kuchiki.net/", // HTTPS AND TRAILING SLASH
         "description": "Collective of fanlistings, webcliques, and character shrines.",
         "button": "https://i.ibb.co/HLCBd3Jh/100x50-3.gif",
@@ -145,14 +138,14 @@ window.membersData = [
     {
         "name": "Phexe.Online",
         "url": "https://phexe.online/", // HTTPS AND TRAILING SLASH
-        "description": "My website is a personal website however FFXIV is a huge part of me! Because of this i have a character profile in my games section and am actively working on a library of XIV modding resources over in my guides area which will be the biggest area of my site. :3 But no main focus of my page really just me and my interests! More and more XIV content is being added as time goes on too",
+        "description": "My website is a personal website however FFXIV is a huge part of me! Because of this i have a character profile in my games section and am actively working on a library of XIV modding resources over in my guides area which will be the biggest area of my site. :3",
         "button": "https://phexe.online/Images/phexebadge1.gif",
         "game": "FFXIV"
     },
     {
         "name": "caar1960-page",
         "url": "https://caar1960-page.neocities.org/", // HTTPS AND TRAILING SLASH
-        "description": "My website is basically where I post my Source Filmmaker renders, reviews from my YouTube channel, blog posts, and also share my favorite things. For now, it's in Spanish, but I'm planning an English version. also my page is 14+  because my renders of sfm will sometimes have some action and violence and my reviews might include some swearing.",
+        "description": "I post my Source Filmmaker renders, reviews from my YouTube channel, blog posts, and also share my favorite things. For now, it's in Spanish, but I'm planning an English version. my page is 14+  because my renders of sfm will sometimes have some action and violence and my reviews might include some swearing.",
         "button": "https://caar1960-page.neocities.org/page%20button.gif",
         "game": "FFIX, FF11, FF Tactics"
     },
@@ -167,7 +160,7 @@ window.membersData = [
         "name": "The Violet Abyss",
         "url": "https://lunarcorvus.com/", // HTTPS AND TRAILING SLASH
         "description": "A Violet-colored webgarden where I talk about OCs and media I like. Website is rated Mature but contains no explicit imagery.",
-        "button": "https://lunarcorvus.com/assets/buttons/lunarcorvusbutton.png",
+        "button": "https://file.garden/Z9QftvoosGBApv5F/ishgardfan/WOLRING/lunarcorvus.png",
         "game": "FFXIV, FFX, FFVIII"
     },
     // ... (continue this pattern for other entries)
